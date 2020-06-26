@@ -7,6 +7,6 @@ Although they don't look that way, they're siblings. You have genes of "European
 * sleeping
 * more eating
 
-> Foooooood, we wanr more foooood!
-![NundM](https://michelgoedeke.github.io/nundm.jpg)
+> Foooooood, we want more foooood!
+<img src="https://michelgoedeke.github.io/nundm.jpg"/>
 
