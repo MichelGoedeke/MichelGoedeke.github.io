@@ -1,7 +1,9 @@
-# These are Lotti and Manni, my favirute cats#
+# These are Lotti and Manni, my favorite cats
 
-Also thes don't look so, ther are brother and sister
+Although they don't look that way, they're siblings.
 
 ##Theire Character Traits##
 * eating
 * sleeping
+
+
