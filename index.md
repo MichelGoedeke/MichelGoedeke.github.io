@@ -2,8 +2,9 @@
 
 Although they don't look that way, they're siblings.
 
-##Theire Character Traits##
+##Theire Character Traits
 * eating
 * sleeping
 
+![NundM](https://michelgoedeke.github.io/nundm.jpg)
 
